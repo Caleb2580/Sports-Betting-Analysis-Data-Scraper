@@ -1,0 +1,28 @@
+season >= 2017 and p:runs<=0 and pp:strike outs>=11 and ppp:strike outs<=11 || on/against = 4500, 11.1% || over/under = 1717, 4.8%
+season >= 2017 and p:runs<=0 and pp:strike outs>=11 and ppp:strike outs<=10 || on/against = 4355, 12.1% || over/under = 1059, 3.3%
+season >= 2017 and p:runs<=0 and pp:strike outs>=8 and ppp:strike outs<=10 || on/against = 4818, 5.4% || over/under = 1950, 2.5%
+season >= 2017 and p:runs<=0 and pp:strike outs>=7 and ppp:strike outs<=10 || on/against = 4320, 4.1% || over/under = 2693, 2.9%
+season >= 2017 and p:runs<=0 and pp:strike outs>=6 and ppp:strike outs<=10 || on/against = 3622, 3.0% || over/under = 3240, 3.0%
+season >= 2017 and p:runs<=0 and pp:strike outs>=6 and ppp:strike outs=10 || on/against = 3070, 17.4% || over/under = 2162, 14.2%
+season >= 2017 and p:runs<=0 and pp:strike outs>=7 and ppp:strike outs<=12 || on/against = 3185, 2.5% || over/under = 2846, 2.5%
+season >= 2017 and p:runs<=0 and pp:strike outs>=8 and ppp:strike outs<=8 || on/against = 3041, 5.0% || over/under = 820, 1.6%
+season >= 2017 and p:runs<=0 and pp:strike outs>=8 and ppp:strike outs<=11 || on/against = 3233, 3.2% || over/under = 3147, 3.6%
+season >= 2017 and p:runs<=0 and pp:strike outs>=8 and ppp:strike outs<=12 || on/against = 3308, 3.1% || over/under = 2898, 3.1%
+season >= 2017 and p:runs<=0 and pp:strike outs>=8 and ppp:strike outs<=14 || on/against = 3078, 2.7% || over/under = 3305, 3.3%
+season >= 2017 and p:runs<=0 and pp:strike outs>=9 and ppp:strike outs<=10 || on/against = 3397, 4.7% || over/under = 1052, 1.7%
+season >= 2017 and p:runs<=0 and pp:strike outs>=10 and ppp:runs>=4 || on/against = 3070, 8.7% || over/under = None, -3.3%
+season >= 2017 and p:runs<=0 and pp:strike outs>=10 and ppp:runs>=5 || on/against = 3410, 12.9% || over/under = None, -2.8%
+season >= 2017 and p:runs<=0 and pp:strike outs>=10 and ppp:strike outs<=10 || on/against = 3777, 7.2% || over/under = None, -0.3%
+season >= 2017 and p:runs<=0 and pp:strike outs>=10 and ppp:strike outs<=11 || on/against = 3647, 6.2% || over/under = 768, 1.5%
+season >= 2017 and p:runs<=0 and pp:strike outs>=11 and ppp:runs>=4 || on/against = 3240, 13.1% || over/under = None, -1.9%
+season >= 2017 and p:runs<=0 and pp:strike outs>=11 and ppp:runs>=5 || on/against = 3325, 17.7% || over/under = None, -1.5%
+season >= 2017 and p:runs<=0 and pp:strike outs>=11 and ppp:strike outs<=12 || on/against = 3610, 8.3% || over/under = 1555, 4.1%
+season >= 2017 and p:runs<=0 and pp:runs<=3 and ppp:strike outs=8 || on/against = 1905, 17.0% || over/under = 1055, 10.4%
+season >= 2017 and p:runs<=0 and pp:runs<=8 and ppp:runs>=6 || on/against = 3216, 6.3% || over/under = None, -2.8%
+season >= 2017 and p:runs<=0 and pp:runs<=9 and ppp:runs>=6 || on/against = 3706, 7.0% || over/under = None, -3.0%
+season >= 2017 and p:runs<=0 and pp:runs<=17 and ppp:strike outs=10 || on/against = 3335, 17.2% || over/under = 2822, 16.6%
+season >= 2017 and p:runs<=0 and pp:runs=0 and ppp:strike outs>=4 || on/against = 2285, 17.2% || over/under = None, -1.4%
+season >= 2017 and p:runs<=0 and pp:runs=6 and ppp:runs<=9 || on/against = 2441, 15.3% || over/under = None, -2.4%
+season >= 2017 and p:runs<=0 and pp:runs=6 and ppp:strike outs>=5 || on/against = 2406, 16.5% || over/under = None, -2.9%
+season >= 2017 and p:runs<=0 and pp:strike outs>=4 and ppp:strike outs=10 || on/against = 3565, 18.8% || over/under = 2422, 14.6%
+season >= 2017 and p:runs<=0 and pp:strike outs>=8 and ppp:strike outs<=10 || on/against = 4818, 5.4% || over/under = 1950, 2.5%
