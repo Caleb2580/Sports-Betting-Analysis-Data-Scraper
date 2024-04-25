@@ -1,0 +1,28 @@
+season >= 2017 and p:runs<=0 and pp:strike outs>=11 and ppp:strike outs<=11 || 4500
+season >= 2017 and p:runs<=0 and pp:strike outs>=11 and ppp:strike outs<=10 || 4355
+season >= 2017 and p:runs<=0 and pp:strike outs>=8 and ppp:strike outs<=10 || 4818
+season >= 2017 and p:runs<=0 and pp:strike outs>=7 and ppp:strike outs<=10 || 4320
+season >= 2017 and p:runs<=0 and pp:strike outs>=6 and ppp:strike outs<=10 || 3622
+season >= 2017 and p:runs<=0 and pp:strike outs>=6 and ppp:strike outs=10 || 3070
+season >= 2017 and p:runs<=0 and pp:strike outs>=7 and ppp:strike outs<=12 || 3185
+season >= 2017 and p:runs<=0 and pp:strike outs>=8 and ppp:strike outs<=8 || 3041
+season >= 2017 and p:runs<=0 and pp:strike outs>=8 and ppp:strike outs<=11 || 3233
+season >= 2017 and p:runs<=0 and pp:strike outs>=8 and ppp:strike outs<=12 || 3308
+season >= 2017 and p:runs<=0 and pp:strike outs>=8 and ppp:strike outs<=14 || 3078
+season >= 2017 and p:runs<=0 and pp:strike outs>=9 and ppp:strike outs<=10 || 3397
+season >= 2017 and p:runs<=0 and pp:strike outs>=10 and ppp:runs>=4 || 3070
+season >= 2017 and p:runs<=0 and pp:strike outs>=10 and ppp:runs>=5 || 3410
+season >= 2017 and p:runs<=0 and pp:strike outs>=10 and ppp:strike outs<=10 || 3777
+season >= 2017 and p:runs<=0 and pp:strike outs>=10 and ppp:strike outs<=11 || 3647
+season >= 2017 and p:runs<=0 and pp:strike outs>=11 and ppp:runs>=4 || 3240
+season >= 2017 and p:runs<=0 and pp:strike outs>=11 and ppp:runs>=5 || 3325
+season >= 2017 and p:runs<=0 and pp:strike outs>=11 and ppp:strike outs<=12 || 3610
+season >= 2017 and p:runs<=0 and pp:runs<=3 and ppp:strike outs=8 || 1905
+season >= 2017 and p:runs<=0 and pp:runs<=8 and ppp:runs>=6 || 
+season >= 2017 and p:runs<=0 and pp:runs<=9 and ppp:runs>=6 || 
+season >= 2017 and p:runs<=0 and pp:runs<=17 and ppp:strike outs=10 || 3335
+season >= 2017 and p:runs<=0 and pp:runs=0 and ppp:strike outs>=4 || 2285
+season >= 2017 and p:runs<=0 and pp:runs=6 and ppp:runs<=9 || 2441
+season >= 2017 and p:runs<=0 and pp:runs=6 and ppp:strike outs>=5 || 2406
+season >= 2017 and p:runs<=0 and pp:strike outs>=4 and ppp:strike outs=10 || 3565
+season >= 2017 and p:runs<=0 and pp:strike outs>=8 and ppp:strike outs<=10 || 4818
